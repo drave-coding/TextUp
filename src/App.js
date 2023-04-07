@@ -59,7 +59,7 @@ function App() {
           {/* <Route exact path="/about" element={<About />} /> */}
           
           
-            <TextForm showAlert = {showAlert} heading="Enter the text to analyse: " mode={mode}/>
+      <TextForm showAlert = {showAlert} heading="Enter the text to analyse: " mode={mode}/>
           
        </div>
        {/* </Router> */}
