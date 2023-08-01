@@ -30,7 +30,7 @@ export default function About(props) {
         </h2>
         <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
         <div className="accordion-body"style={myStyle}>
-            <strong> TextUtils gives you a way to analyze your text quickly and efficiently.</strong>It has many features that can be helpful while dealing with a lot of text at a time.
+            <strong> TextUp gives you a way to analyze your text quickly and efficiently.</strong>It has many features that can be helpful while dealing with a lot of text at a time like converting all to lowercase or uppercase, will add some more features to it as it is just for practice.
         </div>
         </div>
     </div>
@@ -42,7 +42,7 @@ export default function About(props) {
         </h2>
         <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
         <div className="accordion-body"style={myStyle}>
-           <strong> TextUtils is a free characters counter tool that provides instant character count and word count statistics for a given text.</strong>  It reports the number of words and characters.Thus it is suitable for writing text with word/character limit.
+           <strong> TextUp is a free characters counter tool that provides instant character count and word count statistics for a given text.</strong>  It reports the number of words and characters.Thus it is suitable for writing text with word/character limit.
         </div>
         </div>
     </div>
@@ -54,7 +54,7 @@ export default function About(props) {
         </h2>
         <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
         <div className="accordion-body"style={myStyle}>
-           <strong> This word counter software works in any web browser such as Chrome, Firefox, Internet Explorer, Safari, Opera.</strong> It suits to count characters in facebook, blog, books, excel document, pdf document, essays, etc.
+           <strong> This word counter software works in any web browser such as Chrome, Firefox, Internet Explorer, Safari, Opera.</strong> It suits to count characters in facebook, blog, books, excel document, pdf document, essays, etc. and can be used for various instances.
         </div>
         </div>
     </div>

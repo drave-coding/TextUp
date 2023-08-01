@@ -57,7 +57,7 @@ function App() {
     <>
     <Router>
        
-       <Navbar title = "TextUtils" mode={mode} toggleMode = {toggleMode} />
+       <Navbar title = "TextUp" mode={mode} toggleMode = {toggleMode} />
        
        {/* ALert */}
        <Alert alert = {alert}/>
@@ -71,7 +71,7 @@ function App() {
 
 
           <Routes>
-          <Route exact path="/" element={<TextForm showAlert = {showAlert} heading=" Try TextUtils - Word and Character Counter" mode={mode}/>} />
+          <Route exact path="/" element={<TextForm showAlert = {showAlert} heading=" Try TextUp - Word and Character Counter" mode={mode}/>} />
       
           </Routes>
           
